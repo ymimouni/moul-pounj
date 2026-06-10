@@ -74,7 +74,7 @@ export default function HeroSection() {
         {/* ── RIGHT PANEL — hero image ── */}
         <div className="relative w-full lg:w-[52%] min-h-[360px] lg:min-h-0">
           <Image
-            src="/hero-family.png"
+            src="/hero/Family_laughing.jpeg"
             alt="Famille heureuse sur un matelas Moul Pounj"
             fill
             className="object-cover object-center"
